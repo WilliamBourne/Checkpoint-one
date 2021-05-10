@@ -1,0 +1,40 @@
+.root{
+  --theme: #07AB80;
+}
+
+
+
+body{
+  background-color: #E5E5E5;
+  font-family:'Times New Roman', Times, serif
+}
+
+.bg-theme{
+  background-color: #07AB80;
+}
+
+.bg-secondary{
+  background-color: #5B636E;
+}
+
+.bg-white{
+  background-color: #FFFFFF;
+}
+
+.bg-grey{
+  background-color: #8F8E98;
+}
+
+
+.bg-car-water{
+  background: url(https://cleanimage101.com/wp-content/uploads/2020/04/slider1.jpg);
+  background-size: cover;
+  height: 615px;
+}
+
+.text-theme{
+  text-emphasis-color: #07AB80;
+}
+
+
+
